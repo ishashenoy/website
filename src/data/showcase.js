@@ -66,6 +66,12 @@ export default [
         url: "https://play.google.com/store/apps/details?id=com.drutol.malclient",
     },
     {
+        title: "MyMediaTracker",
+        summary: "All inclusive media tracking website including anime, books, manga, movies, and TV shows.",
+        imageUrl: "https://files.catbox.moe/8zj5wo.png",
+        url: "https://mymediatracker.vercel.app/",
+    },
+    {
         title: "Aruppi",
         summary: "Application to see all the information of your favorite anime and manga, listen to music, watch\n" +
             "                    videos or read manga.",
